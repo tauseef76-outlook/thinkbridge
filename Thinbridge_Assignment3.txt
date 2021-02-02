@@ -1,0 +1,8 @@
+Overall application is good. It has proper validations, and navigation is
+also clear.
+
+Few opinions that I have:
+1.Regex to make sure number is indian: i.e. number should start with 9,8,7,6.
+2.Format hint for Consumer Reference No.
+3.Floor it should accept only numeric values.
+4.For Pin,Area & Search Road: Should be dropdown with search. Ref: https://mdbootstrap.com/snippets/jquery/mdbootstrap/921549
